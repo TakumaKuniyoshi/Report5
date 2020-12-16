@@ -1,4 +1,4 @@
-package main;
+/*package main;
 
 public class Main {
     public static void main(String[] args){
@@ -9,7 +9,16 @@ public class Main {
             System.out.println("Null入ってますよー");
             System.out.println(e.getMessage());
         }
-        
+    }
+}
+*/
+
+package main;
+
+public class Main{
+    public static void main(String[] args){
+        String str = "百二十三";
+        int value = Integer.parseInt(str);
     }
 }
 
